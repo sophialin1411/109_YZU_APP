@@ -24,4 +24,6 @@ HTML、CSS
 
 我們使用Ionic來編寫前端，並且使用JS寫個Server當作後端使用
 
+藉由Ionic Framework提供的各種 UI Components，我們能快速的生成我們APP的介面
+
 ...
