@@ -36,6 +36,6 @@ HTML、CSS
 <img src="img/photo_2020-06-10_21-29-09.jpg" width="150px"> <img src="img/photo_2020-06-10_21-29-47.jpg" width="150px"> <img src="img/photo_2020-06-10_21-29-58.jpg" width="150px">
 
 
-如果想要張貼技能交流的便貼，可以
+如果想要張貼技能交流的便貼，可以填寫"TELENT EXCHANCE"來發布交流技能的便貼，並且選擇是否要匿名發布
 
 <img src="img/photo_2020-06-10_21-30-26.jpg" width="150px"> <img src="img/photo_2020-06-10_21-30-29.jpg" width="150px">
