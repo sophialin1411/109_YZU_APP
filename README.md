@@ -20,12 +20,9 @@ HTML、CSS
 
 我們希望透過軟體，讓同在一個學校的人們有更多的接觸，不侷限於課堂，不制約於課程，而是更多元更全面的互動，讓校園能夠呈現出更多不一樣元素所碰撞出的反應。
 
+前端的部分我們藉由Ionic Framework提供的各種 UI Components，快速的生成我們APP的介面
 
-我們使用Ionic來編寫前端，並且使用JS寫個Server當作後端使用
-
-藉由Ionic Framework提供的各種 UI Components，我們能快速的生成我們APP的介面
-
-...
+後端的部分，我們使用JS在本地電腦架設簡易的Server，讓APP能透過網路連結到Server存取資料
 
 > 登入&註冊
 
