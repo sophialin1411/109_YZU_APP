@@ -30,6 +30,12 @@ HTML、CSS
 
 > 主畫面
 
+登入APP後第一個頁面是我們的技能交流版面，上面會顯示技能交流的便貼
+
+
 <img src="img/photo_2020-06-10_21-29-09.jpg" width="150px"> <img src="img/photo_2020-06-10_21-29-47.jpg" width="150px"> <img src="img/photo_2020-06-10_21-29-58.jpg" width="150px">
+
+
+如果想要張貼技能交流的便貼，可以
 
 <img src="img/photo_2020-06-10_21-30-26.jpg" width="150px"> <img src="img/photo_2020-06-10_21-30-29.jpg" width="150px">
