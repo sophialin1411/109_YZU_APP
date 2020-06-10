@@ -26,6 +26,26 @@ HTML、CSS
 
 > 登入&註冊
 
+<img src="img/photo_2020-06-10_21-22-23.jpg" width="200px"> <img src="img/pphoto_2020-06-10_21-27-26.jpg" width="200px">
+
+> 主畫面
+
+<img src="img/photo_2020-06-10_21-29-09.jpg" width="200px"> <mg src="img/photo_2020-06-10_21-29-47.jpg" width="200px">
+
+> 登入&註冊
+
+<img src="img/photo_2020-06-10_21-22-23.jpg" width="200px"> <img src="img/photo_2020-06-10_21-22-23.jpg" width="200px">
+
+> 登入&註冊
+
+<img src="img/photo_2020-06-10_21-22-23.jpg" width="200px"> <img src="img/photo_2020-06-10_21-22-23.jpg" width="200px">
+
+> 登入&註冊
+
+<img src="img/photo_2020-06-10_21-22-23.jpg" width="200px"> <img src="img/photo_2020-06-10_21-22-23.jpg" width="200px">
+
+> 登入&註冊
+
 <img src="img/photo_2020-06-10_21-22-23.jpg" width="200px"> <img src="img/photo_2020-06-10_21-22-23.jpg" width="200px">
 
 
