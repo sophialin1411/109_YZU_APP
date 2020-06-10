@@ -30,5 +30,5 @@ HTML、CSS
 
 > 主畫面
 
-<img src="img/photo_2020-06-10_21-29-09.jpg" width="150px"> <mg src="img/photo_2020-06-10_21-29-47.jpg" width="150px">
-
+<img src="img/photo_2020-06-10_21-29-09.jpg" width="150px"> <img src="img/photo_2020-06-10_21-29-47.jpg" width="150px"> <img src="img/photo_2020-06-10_21-29-58.jpg" width="150px">
+<img src="img/photo_2020-06-10_21-30-26.jpg" width="150px"> <img src="img/photo_2020-06-10_21-30-29.jpg" width="150px">
